@@ -22,3 +22,5 @@ there is aasdasdasdsa
 
 Another example text
 
+
+all rights reserved
