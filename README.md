@@ -19,3 +19,4 @@ Another piece of textt
 
 Another example text
 
+copy notice
