@@ -11,8 +11,11 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-## How To Contribute
+now adding deployment inof
 
+
+## How To Contribute
+Another piece of textt
 
 Another example text
 
